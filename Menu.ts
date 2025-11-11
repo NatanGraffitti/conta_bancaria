@@ -116,7 +116,7 @@ function sobre(): void {
     console.log("\n*****************************************************");
     console.log("Projeto Desenvolvido por: ");
     console.log("Natan Graffitti - natangraffi@gmail.com");
-    console.log("github.com/Natan Graffitti");
+    console.log("github.com/NatanGraffitti");
     console.log("*****************************************************");
 }
 
